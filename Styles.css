@@ -1,0 +1,66 @@
+﻿ HEADER {
+           font-family: 'Buxton Sketch';
+           align-content:center;
+           color:deeppink;                    /*:cadetblue  this is the leka color*/
+           font-size:80px;
+           text-align:center;
+           font-stretch:condensed;
+            font-weight:200;
+            text-emphasis-style:dot;
+           text-shadow:50px 30px 25px white;
+       }
+
+        footer {
+            font-family: 'Buxton Sketch';
+            /*margin: auto;*/
+            color:limegreen;                                      /*:darkolivegreen*/
+            font-size:60px;
+            font-stretch:condensed;
+            font-weight:200;
+            text-emphasis-style:dot;
+            text-shadow:50px 30px 25px grey;
+            text-align:center;
+        }
+
+        aside {
+            font-family: 'Buxton Sketch';
+            /*margin: auto;*/
+            color:deeppink;
+            font-size:60px;
+            font-stretch:condensed;
+            font-weight:200;
+            text-emphasis-style:dot;
+            text-shadow:50px 30px 25px grey;
+        }
+
+        body{
+            background-image:url(ictures/LEARNING.jpg);
+            
+        }
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /*testing*/
+
+        /*#VideoDiv{ width: 100% ; height: 360px; position:relative;}
+        #videoBlock{width:100%; height:100%; display: flexbox ; justify-content:center; align-items:center;}
+        #VideoMessage{width:100%; height:100%; position:absolute; top:0px; left:-360px;}
+        #videoMessage *{padding:0.4em; margin:0}
+        #VideoMessage {text-shadow: 2px 2px 2px #000000; color:white;z-index:99 }
+        #VideoMessage h1{font-size: 2em;color:#ffffff;text-align:center;}
+        #VideoMessage h2{font-size: 1.5em;color:#ffffff;text-align:center;}*/

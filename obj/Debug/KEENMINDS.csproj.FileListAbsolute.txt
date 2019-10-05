@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\KEENMINDS\KEENMINDS\bin\KEENMINDS.dll.config
+c:\users\user\documents\visual studio 2013\Projects\KEENMINDS\KEENMINDS\bin\KEENMINDS.dll
+c:\users\user\documents\visual studio 2013\Projects\KEENMINDS\KEENMINDS\bin\KEENMINDS.pdb
+c:\users\user\documents\visual studio 2013\Projects\KEENMINDS\KEENMINDS\obj\Debug\KEENMINDS.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\KEENMINDS\KEENMINDS\obj\Debug\KEENMINDS.dll
+c:\users\user\documents\visual studio 2013\Projects\KEENMINDS\KEENMINDS\obj\Debug\KEENMINDS.pdb
